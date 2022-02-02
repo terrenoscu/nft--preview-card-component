@@ -8,6 +8,6 @@
 
 This is my second proyect from FrontEnd!
 
-:computer:Languages used: HTML, CSS
+:computer:Technologies used: HTML, CSS
 
 🚀/@terrenoscu
