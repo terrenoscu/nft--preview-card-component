@@ -6,6 +6,7 @@
 >**Mobile VERSION**
 ![Screenshot_20220202-135520-138](https://user-images.githubusercontent.com/78498733/152200261-904e7591-da50-4b15-9fd1-078181b42476.png)
 
-This is my second proyect with FrontEnd!
+This is my second proyect from FrontEnd!
 
+:computer:/Languages used: HTML, CSS
 🚀/@terrenoscu
